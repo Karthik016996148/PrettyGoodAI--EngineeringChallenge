@@ -1,0 +1,137 @@
+{
+  "call_id": "CAea1223fb856b70f11ec0ddc14147eebe",
+  "scenario": "spanish_speaker",
+  "timestamp": "2026-02-17T05:49:44.480732+00:00",
+  "duration_seconds": 117.3,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.6
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, hi! I’d like to schedule a cita for my annual physical, por favor.",
+      "timestamp": 8.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.44
+    },
+    {
+      "speaker": "patient",
+      "text": "No, it's Maria. I want to schedule my cita, please.",
+      "timestamp": 15.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "timestamp": 20.2
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! So, when is the next available appointment?",
+      "timestamp": 21.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks, Maria.",
+      "timestamp": 28.28
+    },
+    {
+      "speaker": "patient",
+      "text": "You're welcome! Just let me know when I can come in.",
+      "timestamp": 29.17
+    },
+    {
+      "speaker": "agent",
+      "text": "I can help with that. May I have your date of birth to confirm your identity before",
+      "timestamp": 33.82
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure! It's April 15, 1973.",
+      "timestamp": 34.78
+    },
+    {
+      "speaker": "agent",
+      "text": "understood. For your safety,",
+      "timestamp": 39.56
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, okay. What do you need to know?",
+      "timestamp": 40.7
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll need your full last name. Along with your date of birth. Look up your records.",
+      "timestamp": 53.26
+    },
+    {
+      "speaker": "patient",
+      "text": "It's Gonzalez. So that's Maria Gonzalez, April 15, 1973.",
+      "timestamp": 54.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm. Your name is Maria Gonzales?",
+      "timestamp": 70.35
+    },
+    {
+      "speaker": "patient",
+      "text": "Actually, it's Gonzalez, with a \"z\".",
+      "timestamp": 71.17
+    },
+    {
+      "speaker": "agent",
+      "text": "And your date of birth is April fifteenth nineteen seventy three. Is that correct? If so, please spell your last name for me.",
+      "timestamp": 76.31
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct. It's G-O-N-Z-A-L-E-Z.",
+      "timestamp": 77.3
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using a phone number you have on file with us?",
+      "timestamp": 92.0
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, yes, the number is 555-123-4567.",
+      "timestamp": 93.01
+    },
+    {
+      "speaker": "agent",
+      "text": "If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again. Which would you",
+      "timestamp": 98.02
+    },
+    {
+      "speaker": "patient",
+      "text": "I’m sure! The number is 555-123-4567.",
+      "timestamp": 98.97
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm",
+      "timestamp": 110.82
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, no problem!",
+      "timestamp": 111.65
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your phone number as five five five one two three four five seven.",
+      "timestamp": 116.56
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CAea1223fb856b70f11ec0ddc14147eebe",
+    "total_turns": 25
+  }
+}

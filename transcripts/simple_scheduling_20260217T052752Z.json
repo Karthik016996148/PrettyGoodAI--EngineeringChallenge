@@ -1,0 +1,137 @@
+{
+  "call_id": "CAdc2de97d2252839a50ee513f5840892c",
+  "scenario": "simple_scheduling",
+  "timestamp": "2026-02-17T05:27:52.921107+00:00",
+  "duration_seconds": 117.2,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics.",
+      "timestamp": 11.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.98
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there! I’d like to schedule a new patient appointment for a checkup.",
+      "timestamp": 16.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Can you please confirm your date of birth, Sarah?",
+      "timestamp": 30.42
+    },
+    {
+      "speaker": "agent",
+      "text": "This will help me verify your patient record and get started with scheduling.",
+      "timestamp": 33.64
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure! What do you need from me?",
+      "timestamp": 34.53
+    },
+    {
+      "speaker": "agent",
+      "text": "I just need your date of birth",
+      "timestamp": 44.74
+    },
+    {
+      "speaker": "agent",
+      "text": "to verify your record before scheduling your appointment. Could you tell me your date of birth",
+      "timestamp": 48.08
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, it’s April 15, 1989.",
+      "timestamp": 50.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Are you okay if I help you schedule this appointment?",
+      "timestamp": 65.2
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that would be great!",
+      "timestamp": 66.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Or would you prefer to speak with our patient support team? I can assist with most requests,",
+      "timestamp": 69.02
+    },
+    {
+      "speaker": "agent",
+      "text": "just like an operator. Would you like to continue with me?",
+      "timestamp": 71.71
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, yes, please!",
+      "timestamp": 72.94
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't schedule the appointment right now because I'm having trouble verifying your record.",
+      "timestamp": 87.75
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll let our clinic support team know so they can follow-up with you as soon as possible.",
+      "timestamp": 92.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Please hold on while I document this for follow-up.",
+      "timestamp": 95.42
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, no problem!",
+      "timestamp": 96.37
+    },
+    {
+      "speaker": "agent",
+      "text": "I've documented your request and our",
+      "timestamp": 102.8
+    },
+    {
+      "speaker": "patient",
+      "text": "Great, thank you! What are the available dates?",
+      "timestamp": 104.09
+    },
+    {
+      "speaker": "agent",
+      "text": "You're all set. Our clinic support",
+      "timestamp": 109.24
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, thank you so much. Bye bye.",
+      "timestamp": 110.53
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't check available",
+      "timestamp": 115.2
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, can you at least tell me what days you usually have openings?",
+      "timestamp": 116.83
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CAdc2de97d2252839a50ee513f5840892c",
+    "total_turns": 25
+  }
+}

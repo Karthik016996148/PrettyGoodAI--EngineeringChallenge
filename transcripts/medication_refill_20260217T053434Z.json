@@ -1,0 +1,122 @@
+{
+  "call_id": "CA3aa99c7146df10c890f0a70238e6b9ac",
+  "scenario": "medication_refill",
+  "timestamp": "2026-02-17T05:34:34.125064+00:00",
+  "duration_seconds": 116.9,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.57
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there, this is James Wilson. I need a refill for my lisinopril, please.",
+      "timestamp": 8.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.21
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, no, this is James Wilson. I wanted to request a refill for my lisinopril.",
+      "timestamp": 14.97
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "timestamp": 20.13
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! I'm running low, just have about three days left. My pharmacy is CVS on Main Street.",
+      "timestamp": 21.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks, James. I'll help with your refill request.",
+      "timestamp": 36.63
+    },
+    {
+      "speaker": "agent",
+      "text": "You please tell me your date of birth to verify your identity?",
+      "timestamp": 39.72
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, it's March 15, 1962.",
+      "timestamp": 40.72
+    },
+    {
+      "speaker": "agent",
+      "text": "Could you please spell out your full name for me just to make sure I have the details correct?",
+      "timestamp": 56.27
+    },
+    {
+      "speaker": "patient",
+      "text": "Of course, it's James Wilson, J-A-M-E-S W-I-L-S-O-N.",
+      "timestamp": 57.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to use your phone number to look up your record?",
+      "timestamp": 73.35
+    },
+    {
+      "speaker": "agent",
+      "text": "If so, please tell me the number you have on file with us.",
+      "timestamp": 76.71
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, it's 555-123-4567.",
+      "timestamp": 77.89
+    },
+    {
+      "speaker": "agent",
+      "text": "If you're not sure, let me know, and I'll verify your name and date of birth again instead.",
+      "timestamp": 81.07
+    },
+    {
+      "speaker": "patient",
+      "text": "I’m sure, that’s the number I’ve used.",
+      "timestamp": 81.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Let me try to look up your record using that number. One moment while I check.",
+      "timestamp": 94.85
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, take your time.",
+      "timestamp": 95.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm what I have. Your phone number is eight three one seven zero four",
+      "timestamp": 101.93
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, no, that’s not right. My number is 555-123-4567.",
+      "timestamp": 103.21
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't proceed further right now, but I will make",
+      "timestamp": 108.45
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, okay. Just let me know what you need from me.",
+      "timestamp": 109.47
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA3aa99c7146df10c890f0a70238e6b9ac",
+    "total_turns": 22
+  }
+}

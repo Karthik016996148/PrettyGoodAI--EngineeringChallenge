@@ -1,0 +1,142 @@
+{
+  "call_id": "CA5e891a73c2194dbb1980c8b03d600d06",
+  "scenario": "multiple_requests",
+  "timestamp": "2026-02-17T05:45:17.054718+00:00",
+  "duration_seconds": 117.6,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.5
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there! Um, I wanted to check if you accept Aetna HMO insurance?",
+      "timestamp": 8.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.98
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, no, this is Amy Rodriguez.",
+      "timestamp": 15.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Yes.",
+      "timestamp": 20.48
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks! So, do you accept Aetna HMO insurance?",
+      "timestamp": 21.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for letting me know, Amy.",
+      "timestamp": 28.52
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! Can I go ahead and schedule a routine physical exam?",
+      "timestamp": 29.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Pivot Point Orthopedics welcomes most insure",
+      "timestamp": 34.3
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, that's good to know. Can I schedule my physical exam now?",
+      "timestamp": 35.18
+    },
+    {
+      "speaker": "agent",
+      "text": "I can help with",
+      "timestamp": 40.14
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, awesome! What days do you have available?",
+      "timestamp": 41.23
+    },
+    {
+      "speaker": "agent",
+      "text": "I can help you with scheduling.",
+      "timestamp": 51.38
+    },
+    {
+      "speaker": "agent",
+      "text": "First, may I have your date of birth to verify your identity?",
+      "timestamp": 54.52
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure! It's December 14, 1981.",
+      "timestamp": 55.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm",
+      "timestamp": 68.2
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, take your time.",
+      "timestamp": 68.92
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your name as Amy Rodriguez? And your date of birth at",
+      "timestamp": 73.46
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct!",
+      "timestamp": 74.09
+    },
+    {
+      "speaker": "agent",
+      "text": "could you please spell out your first and last name for me?",
+      "timestamp": 78.46
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure! It's A-M-Y R-O-D-R-I-G-U-E-Z.",
+      "timestamp": 79.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you, Amy.",
+      "timestamp": 92.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like to use your phone number to look up your record? Yes. So please provide the number you have on file with us. If you're not sure, just let me know.",
+      "timestamp": 98.54
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, it's 555-123-4567.",
+      "timestamp": 99.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm.",
+      "timestamp": 115.14
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, no problem!",
+      "timestamp": 115.87
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA5e891a73c2194dbb1980c8b03d600d06",
+    "total_turns": 26
+  }
+}

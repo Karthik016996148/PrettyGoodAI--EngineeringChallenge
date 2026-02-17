@@ -1,0 +1,122 @@
+{
+  "call_id": "CA21b220a2176612c457366edcb0e54073",
+  "scenario": "interruption_test",
+  "timestamp": "2026-02-17T05:51:59.187837+00:00",
+  "duration_seconds": 118.6,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.54
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, hi, I need to schedule an appointment for a sore throat, like, today or tomorrow. Can you help me?",
+      "timestamp": 8.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics.",
+      "timestamp": 11.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.46
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, no, I'm just trying to schedule an appointment. Can we move on?",
+      "timestamp": 15.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. May I have your date of birth to get started with booking your appointment?",
+      "timestamp": 28.16
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, it's 05/15/1988. Can we hurry this up?",
+      "timestamp": 29.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Mike,",
+      "timestamp": 41.88
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll need your full name including your last name to pull up your record. You provide your first and last name?",
+      "timestamp": 46.39
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, it's Chris Taylor. Can we skip ahead?",
+      "timestamp": 47.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Chris Taylor and your date of birth as May fifteenth nineteen eighty eight. Is that correct?",
+      "timestamp": 64.12
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that’s right. Can we just get to the appointment?",
+      "timestamp": 65.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If yes, please provide that number.",
+      "timestamp": 83.92
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, sure, it’s 555-123-4567. Just want to get this done.",
+      "timestamp": 85.07
+    },
+    {
+      "speaker": "agent",
+      "text": "You're not sure, I can confirm your name and date of birth again. Just let me know what you prefer.",
+      "timestamp": 88.94
+    },
+    {
+      "speaker": "patient",
+      "text": "I’m sure, just look it up with my number. Can we move on?",
+      "timestamp": 90.07
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't proceed further right now.",
+      "timestamp": 105.35
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, thank you so much. Bye bye.",
+      "timestamp": 105.72
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll make sure our clinic support team follows up with you. One moment while I document your request.",
+      "timestamp": 110.39
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, wait, I just want to schedule an appointment, not have a follow-up. Can we do that?",
+      "timestamp": 111.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. The",
+      "timestamp": 116.8
+    },
+    {
+      "speaker": "patient",
+      "text": "Can we just get to the appointment part?",
+      "timestamp": 117.55
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA21b220a2176612c457366edcb0e54073",
+    "total_turns": 22
+  }
+}

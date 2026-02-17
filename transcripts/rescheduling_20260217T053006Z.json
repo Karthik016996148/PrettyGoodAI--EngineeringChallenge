@@ -1,0 +1,167 @@
+{
+  "call_id": "CA1d6bb462c5faf9b0e815eda023b6e41b",
+  "scenario": "rescheduling",
+  "timestamp": "2026-02-17T05:30:06.666272+00:00",
+  "duration_seconds": 117.6,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.59
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there, this is Mike Chen. I need to reschedule my appointment with Dr. Smith this Thursday at 2 PM.",
+      "timestamp": 8.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopaedics.",
+      "timestamp": 11.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.29
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, I’m not sure who I'm speaking with, but I’d like to reschedule my appointment, please.",
+      "timestamp": 15.46
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem.",
+      "timestamp": 26.97
+    },
+    {
+      "speaker": "patient",
+      "text": "Great, thanks! I’d like to move my appointment to sometime next week, preferably Tuesday or Wednesday afternoon if possible.",
+      "timestamp": 28.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Could you please confirm your date of birth so I can verify your record before assisting with your appointment?",
+      "timestamp": 31.55
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, it’s May 5, 1971.",
+      "timestamp": 32.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "timestamp": 42.69
+    },
+    {
+      "speaker": "agent",
+      "text": "And can you please provide your full name, first and last?",
+      "timestamp": 45.91
+    },
+    {
+      "speaker": "patient",
+      "text": "Of course, it’s Mike Chen.",
+      "timestamp": 46.86
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm. Your name is Mike",
+      "timestamp": 58.31
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's right, Mike Chen.",
+      "timestamp": 59.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Chen, and your date of birth is May fifth",
+      "timestamp": 62.89
+    },
+    {
+      "speaker": "agent",
+      "text": "nineteen seventy one. Is that correct?",
+      "timestamp": 65.81
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that's correct, 1971.",
+      "timestamp": 66.78
+    },
+    {
+      "speaker": "agent",
+      "text": "You like me to look up your record using the phone",
+      "timestamp": 71.31
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please. That would be really helpful.",
+      "timestamp": 72.47
+    },
+    {
+      "speaker": "agent",
+      "text": "just to be sure?",
+      "timestamp": 76.63
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, just to be sure. Thanks!",
+      "timestamp": 77.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Great. Can you",
+      "timestamp": 82.93
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, what do you need me to do?",
+      "timestamp": 83.87
+    },
+    {
+      "speaker": "agent",
+      "text": "could you please provide the phone number you have on file with us?",
+      "timestamp": 88.87
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, it’s 555-123-4567.",
+      "timestamp": 90.02
+    },
+    {
+      "speaker": "agent",
+      "text": "I'd like you to tell me the phone number you have on file with our",
+      "timestamp": 94.79
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, I already gave you the number. It’s 555-123-4567.",
+      "timestamp": 95.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm.",
+      "timestamp": 108.01
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, sounds good!",
+      "timestamp": 110.09
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your phone number as five five one two three four five seven.",
+      "timestamp": 113.27
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, that’s not quite right. It should be 555-123-4567.",
+      "timestamp": 114.54
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA1d6bb462c5faf9b0e815eda023b6e41b",
+    "total_turns": 31
+  }
+}

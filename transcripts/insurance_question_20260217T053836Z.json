@@ -1,0 +1,147 @@
+{
+  "call_id": "CA28c6ae7d5b1b1c67fb7c9845ea6a202d",
+  "scenario": "insurance_question",
+  "timestamp": "2026-02-17T05:38:36.070052+00:00",
+  "duration_seconds": 117.2,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.42
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there! Um, I'm looking for a new doctor and I wanted to check if you accept Blue Cross Blue Shield PPO insurance.",
+      "timestamp": 8.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.19
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, no, I’m actually Rachel. I just wanted to ask about the insurance stuff.",
+      "timestamp": 14.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it, Rachel. Yes.",
+      "timestamp": 28.3
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! Can you tell me about the copay amounts and if I need a referral to see a specialist?",
+      "timestamp": 29.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Pivot Point Orthopedics accepts most insurance plans.",
+      "timestamp": 32.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Including Blue Cross Blue Shield PPO. Is there anything else I can help with today?",
+      "timestamp": 35.7
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, thank you so much. Bye bye.",
+      "timestamp": 36.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Maybe information about providers or scheduling.",
+      "timestamp": 39.58
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, do you have any specific doctors I could see, or how do I schedule an appointment?",
+      "timestamp": 41.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure.",
+      "timestamp": 54.12
+    },
+    {
+      "speaker": "agent",
+      "text": "We have doctors who specialize in joint, muscle, and bone conditions as well as physical therapy.",
+      "timestamp": 58.56
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds good! So, um, how do I go about scheduling an appointment with one of the doctors?",
+      "timestamp": 59.76
+    },
+    {
+      "speaker": "agent",
+      "text": "You like some details about our providers, or are you interested in booking an appointment now?",
+      "timestamp": 63.56
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, I think I’d like to book an appointment. Can you help me with that?",
+      "timestamp": 64.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Of course, I can help you book an appointment.",
+      "timestamp": 75.83
+    },
+    {
+      "speaker": "patient",
+      "text": "Awesome! What do I need to do next?",
+      "timestamp": 76.76
+    },
+    {
+      "speaker": "agent",
+      "text": "May I have your full name and date of birth to get started?",
+      "timestamp": 80.38
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure! It’s Rachel Green, and my birthday is March 15, 1985.",
+      "timestamp": 81.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Great.",
+      "timestamp": 84.92
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks! What’s next?",
+      "timestamp": 85.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it, Rachel. Just to make sure I have everything right, your name is Rachel Green.",
+      "timestamp": 102.54
+    },
+    {
+      "speaker": "agent",
+      "text": "And your date of birth is March fifteenth nineteen eighty five.",
+      "timestamp": 106.84
+    },
+    {
+      "speaker": "patient",
+      "text": "Yep, that’s right!",
+      "timestamp": 107.89
+    },
+    {
+      "speaker": "agent",
+      "text": "I get that correct? If so, I'll move forward with scheduling your appointment.",
+      "timestamp": 110.9
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that's correct! Please go ahead.",
+      "timestamp": 111.8
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA28c6ae7d5b1b1c67fb7c9845ea6a202d",
+    "total_turns": 27
+  }
+}

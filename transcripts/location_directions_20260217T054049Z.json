@@ -1,0 +1,107 @@
+{
+  "call_id": "CAda133f1ea3eb2b654b9eed8a24268ae8",
+  "scenario": "location_directions",
+  "timestamp": "2026-02-17T05:40:49.734108+00:00",
+  "duration_seconds": 117.5,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.51
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there! Um, I have an appointment tomorrow and I just need a couple of details.",
+      "timestamp": 8.22
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.19
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, no, this is Tom Baker. I just need the office address and maybe some directions.",
+      "timestamp": 14.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "timestamp": 20.57
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, great! Could you give me the address and tell me if there's parking available?",
+      "timestamp": 21.74
+    },
+    {
+      "speaker": "agent",
+      "text": "The address for Pivot Point Orthopedics is two two zero Athens Way, Nashville. There is parking available at the clinic. Me know if you need anything else.",
+      "timestamp": 41.73
+    },
+    {
+      "speaker": "patient",
+      "text": "Sorry, what was that address again?",
+      "timestamp": 42.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. The address is two two zero Athens Way, Nashville.",
+      "timestamp": 54.81
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thanks! Is there a parking lot or garage? And is it free?",
+      "timestamp": 55.84
+    },
+    {
+      "speaker": "agent",
+      "text": "There's parking available at the clinic and it's free for patients.",
+      "timestamp": 73.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Me know if you have any other questions.",
+      "timestamp": 76.43
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, could you repeat that? I didn't catch it.",
+      "timestamp": 77.38
+    },
+    {
+      "speaker": "agent",
+      "text": "Parking is available at the clinic and it's free for patients.",
+      "timestamp": 90.37
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, that's good to know! Which floor or suite is the office on?",
+      "timestamp": 91.54
+    },
+    {
+      "speaker": "agent",
+      "text": "I don't have details about the floor or suite, but the clinic is at",
+      "timestamp": 104.75
+    },
+    {
+      "speaker": "patient",
+      "text": "Sorry, could you say that again?",
+      "timestamp": 105.65
+    },
+    {
+      "speaker": "agent",
+      "text": "two two zero Athens Way, Nashville. If you need more specifics, the front desk can help you.",
+      "timestamp": 110.95
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, I appreciate that! Thank you for your help.",
+      "timestamp": 112.6
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CAda133f1ea3eb2b654b9eed8a24268ae8",
+    "total_turns": 19
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "call_id": "CA24e9c24b36eebd0aba083527f78330ff",
+  "scenario": "confused_patient",
+  "timestamp": "2026-02-17T05:47:31.219716+00:00",
+  "duration_seconds": 117.6,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics.",
+      "timestamp": 11.06
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, hi there! I was just wondering, do I have an appointment soon?",
+      "timestamp": 11.8
+    },
+    {
+      "speaker": "agent",
+      "text": "Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": 14.98
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, no, I think it's, uh, the other doctor, Dr. Thompson? No, wait, it might be, uh, Dr. Patel? I get so confused.",
+      "timestamp": 16.06
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem. To help you best",
+      "timestamp": 33.8
+    },
+    {
+      "speaker": "agent",
+      "text": "can I get your full name and date of birth? This will make sure I pull up the correct information. For you.",
+      "timestamp": 37.98
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, right! I'm Betty Morris, and my birthday is, um, June 15, 1945.",
+      "timestamp": 38.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to be sure I have your name",
+      "timestamp": 55.1
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, it's Betty Morris. Did I say that right?",
+      "timestamp": 55.92
+    },
+    {
+      "speaker": "agent",
+      "text": "as Betty Morris and your date of birth as June fifteenth nineteen forty five?",
+      "timestamp": 59.36
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's it! Um, wait, do I have an appointment coming up?",
+      "timestamp": 60.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Did I get that right? If so, could you please spell out your first and last name for me?",
+      "timestamp": 63.6
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, sure! It's B-E-T-T-Y, and then M-O-R-R-I-S. Uh, wait, is my appointment soon?",
+      "timestamp": 64.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check on your upcoming appointment.",
+      "timestamp": 79.98
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, great! I just can't remember when it is...",
+      "timestamp": 80.82
+    },
+    {
+      "speaker": "agent",
+      "text": "To access your records, do you want to use the phone number you have on file with us?",
+      "timestamp": 84.1
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, yeah, that sounds good. I think it’s the one I always use, but I’m not really sure...",
+      "timestamp": 85.32
+    },
+    {
+      "speaker": "agent",
+      "text": "If yes, please tell me the number you provided to the clinic. If you're not sure, I can confirm your full name and date of birth again. Would you like to do?",
+      "timestamp": 92.18
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, the number, let me think... I’m not really sure right now. Maybe just, uh, confirm my name and birthday again?",
+      "timestamp": 94.13
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem. I have your name as Betty Morris.",
+      "timestamp": 109.6
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that’s me! And my birthday is, uh, June 15, 1945. So, do I have an appointment?",
+      "timestamp": 111.01
+    },
+    {
+      "speaker": "agent",
+      "text": "And your date of birth as June fifteenth nineteen forty five. Could you please spell out",
+      "timestamp": 115.6
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, um, yeah! It's B-E-T-T-Y and M-O-R-R-I-S, just like before. But, um, what about my appointment?",
+      "timestamp": 116.88
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CA24e9c24b36eebd0aba083527f78330ff",
+    "total_turns": 24
+  }
+}

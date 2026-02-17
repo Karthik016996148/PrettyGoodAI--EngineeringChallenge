@@ -1,0 +1,127 @@
+{
+  "call_id": "CAe825888798e1c919163573aedae882f2",
+  "scenario": "cancellation",
+  "timestamp": "2026-02-17T05:32:20.374829+00:00",
+  "duration_seconds": 117.3,
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes.",
+      "timestamp": 7.43
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, this is Linda Martinez. I need to cancel my appointment for next Monday at 10 AM.",
+      "timestamp": 8.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling PivotPoint Orthopedics. Am I speaking with Sarah?",
+      "timestamp": 14.15
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, actually, it's Linda.",
+      "timestamp": 14.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it, Linda. Could you please provide your date of birth?",
+      "timestamp": 25.67
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, it's April 15, 1978.",
+      "timestamp": 26.67
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll need your full name including your last name,",
+      "timestamp": 41.47
+    },
+    {
+      "speaker": "patient",
+      "text": "It's Linda Martinez.",
+      "timestamp": 42.58
+    },
+    {
+      "speaker": "agent",
+      "text": "along with your date of birth to find your record. Can you tell me your last name?",
+      "timestamp": 45.75
+    },
+    {
+      "speaker": "patient",
+      "text": "It's Martinez, Linda Martinez.",
+      "timestamp": 46.6
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Linda",
+      "timestamp": 56.73
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your info. Your full name is Linda Martinez. And your date of birth is April fifteenth nineteen seventy. Is that correct?",
+      "timestamp": 64.01
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that's correct.",
+      "timestamp": 64.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using your phone number?",
+      "timestamp": 76.15
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, no, that’s okay. I just want to cancel my appointment.",
+      "timestamp": 77.14
+    },
+    {
+      "speaker": "agent",
+      "text": "If so, can you tell me the number you have on file with us? If you're not sure, just let me",
+      "timestamp": 81.85
+    },
+    {
+      "speaker": "patient",
+      "text": "I think it’s 555-1234, but I'm not totally sure.",
+      "timestamp": 82.73
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem.",
+      "timestamp": 87.23
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks! So, can we just go ahead and cancel that appointment?",
+      "timestamp": 88.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your phone number as",
+      "timestamp": 101.59
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh, wait, I think I just want to cancel my appointment for now.",
+      "timestamp": 102.54
+    },
+    {
+      "speaker": "agent",
+      "text": "five five five one two three four, and your birthday is April fifth fifteenth nineteen seventy. Is that correct?",
+      "timestamp": 106.83
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that’s right. Can we cancel the appointment now?",
+      "timestamp": 107.69
+    }
+  ],
+  "metadata": {
+    "twilio_call_sid": "CAe825888798e1c919163573aedae882f2",
+    "total_turns": 23
+  }
+}
