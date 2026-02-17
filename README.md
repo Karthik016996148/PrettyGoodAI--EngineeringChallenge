@@ -144,7 +144,7 @@ Building a real-time voice bot that holds natural phone conversations surfaced s
 | `TWILIO_ACCOUNT_SID` | Twilio account SID |
 | `TWILIO_AUTH_TOKEN` | Twilio auth token |
 | `TWILIO_PHONE_FROM` | Your Twilio phone number (E.164 format) |
-| `TARGET_PHONE_NUMBER` | Test line to call (default: +1805*******) |
+| `TARGET_PHONE_NUMBER` | Test line to call (default: +18054398008) |
 | `DEEPGRAM_API_KEY` | Deepgram API key |
 | `ELEVENLABS_API_KEY` | ElevenLabs API key |
 | `ELEVENLABS_VOICE_ID` | ElevenLabs voice ID (default: Rachel) |
@@ -163,4 +163,4 @@ Total cost to run the full 12-call test suite:
 | Twilio | Call charges (12 calls) | $0.30 |
 | ElevenLabs | TTS usage | $5.00 |
 | OpenAI | GPT-4o-mini (conversation + analysis) | $1.00 |
-| **Total** | | **$27.45** |
+| **Total** | | **$26.48** |
