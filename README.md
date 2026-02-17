@@ -143,8 +143,8 @@ Building a real-time voice bot that holds natural phone conversations surfaced s
 |----------|-------------|
 | `TWILIO_ACCOUNT_SID` | Twilio account SID |
 | `TWILIO_AUTH_TOKEN` | Twilio auth token |
-| `TWILIO_PHONE_FROM` | Your Twilio phone number (E.164 format) |
-| `TARGET_PHONE_NUMBER` | Test line to call (default: +18054398008) |
+| `TWILIO_PHONE_FROM` | +1 8317045499 (E.164 format) |
+| `TARGET_PHONE_NUMBER` | +1 8054398008 |
 | `DEEPGRAM_API_KEY` | Deepgram API key |
 | `ELEVENLABS_API_KEY` | ElevenLabs API key |
 | `ELEVENLABS_VOICE_ID` | ElevenLabs voice ID (default: Rachel) |
