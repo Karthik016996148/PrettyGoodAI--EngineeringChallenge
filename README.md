@@ -162,5 +162,5 @@ Total cost to run the full 12-call test suite:
 | Twilio | Phone number | $1.15 |
 | Twilio | Call charges (12 calls) | $0.30 |
 | ElevenLabs | TTS usage | $5.00 |
-| OpenAI | GPT-4o-mini (conversation + analysis) | $1.00 |
+| OpenAI | GPT-4o-mini (conversation + analysis) | $0.03 |
 | **Total** | | **$26.48** |
